@@ -1,4 +1,4 @@
-# jira-lint 🧹
+# jira-lint 🧹 %%%
 
 > A light-weight lint workflow when using GitHub along with [JIRA][jira] for project management.
 > Ported from [pivotal-lint](https://github.com/ClearTax/pivotal-lint/) for similar usage with Atlassian's Jira Software.
