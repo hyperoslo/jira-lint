@@ -30,7 +30,7 @@ jobs:
     - name: jira-lint
       # You may pin to the exact commit or the version.
       # uses: ClearTax/jira-lint@77705cbda2c5b24933e26534829d644b83ad3ae2
-      uses: ClearTax/jira-lint@3905ff94d4e13729a3e9aa5c572144d92af0fb79
+      uses: ClearTax/jira-lint@v0.0.1
       with:
         # Token used to update PR description and add labels. Can be passed in using {{ secrets.GITHUB_TOKEN }}
         github-token: ${{ secrets.GITHUB_TOKEN }}
